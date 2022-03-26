@@ -67,4 +67,12 @@ Tools and technologies that you learnt and used in the project.
 ## Screenshots
 Add a few screenshots for parts of the project completed till now to give the viewer a quick idea of what your project looks like. After all, a picture speaks a thousand words.
 ![WhatsApp Image 2022-03-26 at 9 21 22 AM (1)](https://user-images.githubusercontent.com/60231901/160224932-1f34e579-05e6-43a4-bedc-da3aefb4e176.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 22 AM](https://user-images.githubusercontent.com/60231901/160224953-74f420eb-2736-47ab-899b-fcce1ca7d5e0.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 23 AM (1)](https://user-images.githubusercontent.com/60231901/160224956-c915dc37-ecbd-4d26-b6ce-e051265956b0.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 23 AM (2)](https://user-images.githubusercontent.com/60231901/160224961-18daea06-8fe0-4e19-8bdf-81dbea16d8d7.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 23 AM](https://user-images.githubusercontent.com/60231901/160224963-5c7676ad-bd29-4bf2-b7a3-ebf9c19c0626.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 24 AM](https://user-images.githubusercontent.com/60231901/160224966-25a80392-adf2-422b-98f0-30cb7154b507.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 25 AM (1)](https://user-images.githubusercontent.com/60231901/160224968-86d68bb0-972f-4835-ba95-dd4813aa0b33.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 25 AM](https://user-images.githubusercontent.com/60231901/160224973-8ac1e21f-aaa7-40e9-a799-ed0188ad2da7.jpeg)
+![WhatsApp Image 2022-03-26 at 9 21 26 AM](https://user-images.githubusercontent.com/60231901/160224974-70a33b6f-5a45-4290-9fc2-372416136779.jpeg)
 
